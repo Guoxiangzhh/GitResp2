@@ -8,4 +8,5 @@ package com.zh;
  */
 public class Teacher {
     private int age;
+    private int id;
 }
